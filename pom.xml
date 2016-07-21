@@ -10,9 +10,9 @@
 
 
 	<scm>
-		<developerConnection>scm:git:https://github.com/lrag/ejemplomaven</developerConnection>
-		<connection>scm:git:https://github.com/lrag/ejemplomaven</connection>
-		<url>scm:git:https://github.com/lrag/ejemplomaven</url>
+		<developerConnection>scm:git:https://github.com/ranshaymus@gmail.com/ejemplomaven</developerConnection>
+		<connection>scm:git:https://github.com/ranshaymus@gmail.com/ejemplomaven</connection>
+		<url>scm:git:https://github.com/ranshaymus@gmail.com/ejemplomaven</url>
 		<tag>Ej19_ReleasePlugin-0.0.3</tag>
 	</scm>
 
