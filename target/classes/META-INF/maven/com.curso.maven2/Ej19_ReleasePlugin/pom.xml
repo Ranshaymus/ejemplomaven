@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.curso.maven2</groupId>
 	<artifactId>Ej19_ReleasePlugin</artifactId>
-	<version>0.0.3-SNAPSHOT</version>
+	<version>0.0.3</version>
 
 	<properties>
 		<project.scm.id>nuestro-scm-server</project.scm.id>
@@ -10,9 +10,9 @@
 
 
 	<scm>
-		<developerConnection>scm:git:https://github.com/ranshaymus@gmail.com/ejemplomaven</developerConnection>
-		<connection>scm:git:https://github.com/ranshaymus@gmail.com/ejemplomaven</connection>
-		<url>scm:git:https://github.com/ranshaymus@gmail.com/ejemplomaven</url>
+		<developerConnection>scm:git:https://github.com/ranshaymus/ejemplomaven</developerConnection>
+		<connection>scm:git:https://github.com/ranshaymus/ejemplomaven</connection>
+		<url>scm:git:https://github.com/ranshaymus/ejemplomaven</url>
 		<tag>Ej19_ReleasePlugin-0.0.3</tag>
 	</scm>
 
